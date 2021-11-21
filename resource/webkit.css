@@ -1,10 +1,11 @@
-[class*="libraryhome_WhatsNew"] {
-	display: none !important;
-}
-[class*="writereview_RatingContainer"] {
-	display: none !important;
-}
-[class*="appdetailsactivitysection_AddToFeed"] {
-	display: none !important;
+[class*="libraryhome_UpdatesContainer"] {
+    display: none !important;
 }
 
+[class*="writereview_RatingContainer"] {
+    display: none !important;
+}
+
+[class*="appdetailsactivitysection_AddToFeed"] {
+    display: none !important;
+}
